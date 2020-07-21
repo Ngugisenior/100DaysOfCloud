@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://github.com/Ngugisenior/100DaysOfCloud/blob/main/Journey/001/watson.gif/1200x600)
+![placeholder image](https://github.com/Ngugisenior/100DaysOfCloud/blob/main/Journey/001/watson.gif)
 
 # New post title here
 
