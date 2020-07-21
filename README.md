@@ -16,18 +16,18 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## [✍️ Joseph Muiruri]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[✍️ I am passinate about technology and my interests are in Cloud technologies, Linux, Virtualization and Networking as well as Quantum computing]
 
-[✍️ Tell us why you started this challenge]
+[✍️ I started 100DaysOf Cloud with one goal in mind which is to learn as much as i can about cloud technologies and their applications.]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ Shortly after completing this Journey i will be taking my Azure Administrator Asscoiate Exam and before that SRE exam]
 
 - [✍️Twitter](https://twitter.com/MuiruriPyrax)
 - [✍️LinkedIn](https://www.linkedin.com/in/ngugimuiruri)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [Created IBM Watson Visual Recognition Project](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Created Image Classification with IBM Watson Visual Recognition](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
